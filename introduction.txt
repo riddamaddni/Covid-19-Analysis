@@ -1,0 +1,12 @@
+INTRODUCTION
+
+The Covid-19 Professional Data Analytics Database is an enterprise-grade SQL project designed to manage a comprehensive dataset of the coronavirus pandemic. This project goes beyond simple tracking by implementing a highly normalized, multi-dimensional schema capable of supporting complex epidemiological research and public health policy analysis.
+
+The database is architected to handle millions of records across diverse metrics. The system is divided into specialized subject areas:
+-   **Epidemiology**: Tracking the core spread of the virus (cases, deaths, reproduction rates).
+-   **Vaccinations**: Monitoring the global immunization effort, including boosters and daily administration rates.
+-   **Healthcare Capacity**: Analyzing hospital and ICU strain against national capacity limits.
+-   **Government Response**: Correlating policy stringency indices with infection curves.
+-   **Demographics**: Leveraging rich country-level metadata (age structure, comorbidities, GDP) to contextualize health outcomes.
+
+This project demonstrates a professional approach to Database Management, featuring a robust schema design and optimized SQL queries. It serves as a platform for advanced analytics, enabling researchers to uncover deep insights into one of the most significant global events of the 21st century.

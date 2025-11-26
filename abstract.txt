@@ -1,0 +1,11 @@
+ABSTRACT
+
+This project presents the design and implementation of a professional-grade Data Analytics Database for the global COVID-19 pandemic. Addressing the limitations of flat-file analysis, this system employs a normalized relational schema to integrate disparate data points—ranging from daily infection rates to economic indicators—into a unified analytical engine.
+
+Key technical contributions include:
+1.  **Enterprise Schema Design**: A 7-table architecture separating Dimensions (Countries) from Facts (Epidemiology, Vaccinations, Testing, Hospitalizations, Government Response, Excess Mortality), ensuring data integrity and query performance.
+2.  **Comprehensive Data Integration**: A pre-populated dataset that models the pandemic's progression across major global economies, ready for immediate analysis.
+3.  **Complex Analytical Capabilities**: A library of advanced SQL queries designed to investigate multi-factor correlations, such as the impact of GDP on vaccination rates and the relationship between ICU capacity and excess mortality.
+4.  **Scalable Architecture**: The system is optimized to handle large volumes of time-series data, demonstrating scalability and robustness suitable for real-world deployment.
+
+The resulting database provides a comprehensive, queryable historical record of the pandemic, offering a powerful tool for data scientists and public health analysts.
